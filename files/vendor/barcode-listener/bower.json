@@ -1,0 +1,26 @@
+{
+    "name": "jquery-barcode-listener",
+    "version": "1.0",
+    "description": "Simple jQuery plugin to detect scanning from a barcode scanner",
+    "author": "DragonOfMercy <dragonofmercy@gmail.com>",
+    "homepage": "https://github.com/dragonofmercy/barcode-listener",
+    "bugs": {
+        "url": "https://github.com/dragonofmercy/barcode-listener/issues"
+    },
+    "main": "jquery.barcodeListener.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dragonofmercy/barcode-listener.git"
+    },
+    "files": [
+        "jquery.barcodeListener.js"
+    ],
+    "keywords": [
+        "barcode",
+        "scanner",
+        "barcode-scanner",
+        "barcode-listener",
+        "listener"
+    ],
+    "license": "BSD"
+}

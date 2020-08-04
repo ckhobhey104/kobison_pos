@@ -1,0 +1,39 @@
+{
+  "name": "jquery-code-scanner",
+  "version": "0.0.6",
+  "homepage": "https://github.com/Glideh/jquery-code-scanner",
+  "authors": [
+    "Pierre de LESPINAY <gprod.net+github@gmail.com>"
+  ],
+  "description": "Lightweight handheld code scanner detector plugin for jquery",
+  "main": "jquery-code-scanner.js",
+  "keywords": [
+    "jquery",
+    "code-scanner",
+    "barcode",
+    "QRCode",
+    "scanner",
+    "barcode-reader"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "_release": "0.0.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.6",
+    "commit": "e485b155e630904bae1014fedd2777c30167aeee"
+  },
+  "_source": "https://github.com/Glideh/jquery-code-scanner.git",
+  "_target": "^0.0.6",
+  "_originalSource": "jquery-code-scanner",
+  "_direct": true
+}
